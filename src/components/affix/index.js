@@ -28,6 +28,7 @@ export default class Affix extends PureComponent {
       PropTypes.arrayOf(PropTypes.node),
       PropTypes.node,
     ]),
+
   };
 
   render() {
